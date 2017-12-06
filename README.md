@@ -10,4 +10,3 @@ this is v6
 this is v7
   # adding a comment about stuff
 this is v7.1
-this is v8
